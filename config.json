@@ -1,10 +1,10 @@
 {
-  "current_interview_date_str": "",
-  "enrollment_location_id": "",
+  "current_interview_date_str": "April 26, 2022",
+  "enrollment_location_id": "5300",
   "logfile": "",
 
-  "email_from": "",
-  "email_to": [""],
+  "email_from": "meredithweaver14@gmail.com",
+  "email_to": ["meredithweaver14@gmail.com"],
   "email_server": "localhost",
   "email_port": 25,
   "email_username": "",
@@ -12,7 +12,7 @@
 
   "__comment": "Below are optional:",
   "use_gmail": true,
-  "gmail_password": "",
+  "gmail_password": "dhcsydlqvxchrpzo",
   "no_email": false,
   "no_spamming": true,
 
